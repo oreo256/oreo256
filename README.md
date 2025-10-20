@@ -1,4 +1,17 @@
 ## About Me 
+<!--
+![](https://github-readme-stats.vercel.app/api/top-langs?username=oreo256)
+-->
+## Programming Languages
+![](https://skillicons.dev/icons?i=html,css,js,ts,py,c,cpp)
+
+## Frameworks and Library
+![](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap)
+
+
+## DB and Dev Tools etc
+![](https://skillicons.dev/icons?i=mongodb,postgres,prisma,docker,git,github,vscode,vercel,obsidian)
+
 
 <!--
 **oreo256/oreo256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
