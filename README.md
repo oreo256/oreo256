@@ -1,9 +1,13 @@
-## About Me 
+## About Me
+🎓 I'm a computer science student at the University of Electro-Communications (UEC), Japan.  
+💻 Interested in full-stack web development using React, Next.js, and Node.js.  
+🚀 Currently learning Docker and Prisma to improve my backend skills.
+
 <!--
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=oreo256)
 -->
 ## Programming Languages
-![](https://skillicons.dev/icons?i=html,css,js,ts,py,c,cpp)
+![](https://skillicons.dev/icons?i=html,css,js,ts,py,c,cpp,ruby)
 
 ## Frameworks and Library
 ![](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap)
