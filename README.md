@@ -7,7 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=oreo256)
 -->
 ## Programming Languages
-![](https://skillicons.dev/icons?i=html,css,js,ts,py,c,cpp,ruby)
+![](https://skillicons.dev/icons?i=html,css,js,ts,c)
 
 ## Frameworks and Library
 ![](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap)
