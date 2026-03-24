@@ -1,33 +1,43 @@
-## About Me
-🎓 I'm a computer science student at the University of Electro-Communications (UEC), Japan.  
-💻 Interested in full-stack web development using React, Next.js, and Node.js.  
-🚀 Currently learning Docker and Prisma to improve my backend skills.
+# Hi, I'm Reo Nishida 👋
 
-<!--
-![](https://github-readme-stats.vercel.app/api/top-langs?username=oreo256)
--->
-## Programming Languages
+I'm a computer science student at the University of Electro-Communications, Japan.
+I'm interested in full-stack web development, backend systems, AI agents, and cloud technologies.
+
+## About Me
+
+- Computer science student at UEC, Japan
+- Remote engineering intern at Kiei
+- Interested in React, Next.js, Node.js, and Python
+- Preparing for an exchange program in Sweden
+
+## What I'm Working On
+
+- Full-stack application development
+- AI agents, RAG, and document processing workflows
+- AWS learning, including S3, EC2, ECS, ECR, Bedrock, and IAM
+- Improving my backend skills
+
+## Tech Stack
+
+### Languages
 ![](https://skillicons.dev/icons?i=html,css,js,ts,c,python)
 
-## Frameworks and Library
-![](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap,fastapi)
+### Frontend
+![](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)
 
+### Backend
+![](https://skillicons.dev/icons?i=nodejs,express,fastapi)
 
-## DB and Dev Tools etc
+### Database / Tools
 ![](https://skillicons.dev/icons?i=mongodb,postgres,prisma,docker,git,github,vscode,vercel,obsidian)
 
+### Cloud
+![](https://skillicons.dev/icons?i=aws,azure)
 
-<!--
-**oreo256/oreo256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI / Agent
+OpenAI Agent SDK, Mastra, MCP
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
