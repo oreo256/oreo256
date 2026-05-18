@@ -29,7 +29,7 @@ I'm interested in full-stack web development, backend systems, AI agents, and cl
 ![](https://skillicons.dev/icons?i=nodejs,express,fastapi)
 
 ### Database / Tools
-![](https://skillicons.dev/icons?i=mongodb,postgres,prisma,docker,git,github,vscode,vercel,obsidian)
+![](https://skillicons.dev/icons?i=mongodb,postgres,prisma,supabase,docker,git,github,vscode,vercel,obsidian)
 
 ### Cloud
 ![](https://skillicons.dev/icons?i=aws,azure)
